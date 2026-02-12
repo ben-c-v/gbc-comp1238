@@ -24,4 +24,5 @@
 ### Friday
 - 10:00-12:00 - COMP1151 - IT Essentials
 
+## Notes
 [Notes for the midterm exam, covering weeks 1-5](comp1238.md)
